@@ -2,7 +2,7 @@ class Translation(object):
     START_TEXT = """Salom,
 Bu Bot Orqali Telegramda Turib Youtubedagi Videolarni Yuklashingiz mumkun!
 
-<b>Iltimos Menga Videoni Linkni Jo`nating,Ko`rmoqchi bo`lgan videoning Linkni</b>
+<b>Iltimos Menga Videoni Linkni jonating,kormoqchi bo`lgan videoning Linkni</b>
 
 Youtube Dowlander
 @botname """
