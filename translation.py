@@ -2,9 +2,9 @@ class Translation(object):
     START_TEXT = """Salom,
 Bu Bot Orqali Telegramda Turib Youtubedagi Videolarni Yuklashingiz mumkun!
 
-<b>Iltimos Menga Videoni Linkni jonating,kormoqchi bo`lgan videoning Linkni</b>
+<b>Iltimos Menga Videoni Linkni jonating, yordam kerak bolsa /help tugmasini bosing</b>
 
-Youtube Dowlander"""
+Youtube Dowlander @YouTubeskachatbot """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
@@ -38,9 +38,9 @@ Expires on: 31/12/2020"""
 1. Send url (Link|New Name with Extension).
 2. Send Custom Thumbnail (Optional).
 3. Select the button.
-   SVideo - Give File as video with Screenshots
+   HD Video - Give File as video with Screenshots
    DFile  - Give File with Screenshots
-   Video  - Give File as video without Screenshots
+   skren ideo  - Give File as video without Screenshots
    DFile  - Give File without Screenshots
    
 <b>👉 Create own Clone Bot :</b> 👉 <a href="https://youtu.be/QkAkSLBgoYw">Diploy</a>
