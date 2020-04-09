@@ -4,7 +4,7 @@ Bu Bot Orqali Telegramda Turib Youtubedagi Videolarni Yuklashingiz mumkun!
 
 <b>Iltimos Menga Videoni Linkni jonating, yordam kerak bolsa /help tugmasini bosing</b>
 
-Youtube Dowlander @YouTubeskachatbot """
+<b>DASTURCHI</b> @OQXAKER """
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  /help for Details"
